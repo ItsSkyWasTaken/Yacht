@@ -1,4 +1,4 @@
-package net.sky;
+package net.sky.yacht;
 
 import net.sky.yacht.display.Window;
 import net.sky.yacht.input.MouseListener;
