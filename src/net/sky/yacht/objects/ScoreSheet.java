@@ -126,7 +126,7 @@ public class ScoreSheet extends GameObject {
             return;
         }
 
-      ArrayList<Integer> diceValues = new ArrayList<>();
+        ArrayList<Integer> diceValues = new ArrayList<>();
         for(GameObject object : this.handler.getObjects()) {
             if(object instanceof Die) {
                 diceValues.add(((Die) object).getValue());
