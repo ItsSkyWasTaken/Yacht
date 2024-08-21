@@ -1,7 +1,7 @@
 # Yacht
 Yacht is a public domain dice game that has inspired many other similar dice games like Yahtzee and Generala.  The game gets its name from being invented by a Canadian couple on a yacht.
 
-**Important:  This program runs on [Java 8](https://www.oracle.com/java/technologies/javase-jre8-downloads.html).  If you do not have the correct JRE, this program may not run on your computer.**
+**Important:  This program runs on [Java 8](https://www.oracle.com/java/technologies/javase-jre8-downloads.html).  If you do not have the correct JRE, this program might not run properly on your computer.**
 
 ## Gameplay
 Objective:  Score as high as you can!
