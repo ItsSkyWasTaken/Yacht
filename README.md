@@ -19,7 +19,7 @@ There are twelve slots:
 * Full House:  Score sum of dice if there are three of one number and two of another number (e.g. 4-4-4-3-3 is valid, scoring 18).
 * Low Straight:  Score 30 for getting 1-2-3-4-5 in any order (anything else scores 0).
 * High Straight:  Score 30 for getting 2-3-4-5-6 in any order (anything else scores 0).
-* Yahtzee:  Score 50 for getting five of a kind (anything else scores 0).
+* Yacht:  Score 50 for getting five of a kind (anything else scores 0).
 * Chance:  The wild card.  Score the sum of dice.  Mainly used to avoid a 0 if the hand does not fit another category.
 
 To roll, click the lime-green button on the centre of the screen.  To hold a die for the next roll, click on it.  You can click again to un-hold the die.  Held dice will have an extra outline and will not change on the next roll (unless the round has ended, in which case all dice are automatically unheld).  To input a score, click on the appropriate box.
