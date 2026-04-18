@@ -1,8 +1,8 @@
-package net.sky.yacht;
+package com.github.itsskywastaken.yacht;
 
-import net.sky.yacht.display.Window;
-import net.sky.yacht.input.MouseListener;
-import net.sky.yacht.objects.*;
+import com.github.itsskywastaken.yacht.display.Window;
+import com.github.itsskywastaken.yacht.input.MouseListener;
+import com.github.itsskywastaken.yacht.objects.*;
 
 import java.awt.*;
 import java.awt.image.BufferStrategy;

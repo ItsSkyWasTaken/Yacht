@@ -1,6 +1,6 @@
-package net.sky.yacht.input;
+package com.github.itsskywastaken.yacht.input;
 
-import net.sky.yacht.objects.Handler;
+import com.github.itsskywastaken.yacht.objects.Handler;
 
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;

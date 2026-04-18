@@ -1,4 +1,4 @@
-package net.sky.yacht.objects;
+package com.github.itsskywastaken.yacht.objects;
 
 import java.awt.*;
 

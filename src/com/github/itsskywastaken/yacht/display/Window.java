@@ -1,6 +1,6 @@
-package net.sky.yacht.display;
+package com.github.itsskywastaken.yacht.display;
 
-import net.sky.yacht.Game;
+import com.github.itsskywastaken.yacht.Game;
 
 import java.awt.Dimension;
 import javax.swing.JFrame;
